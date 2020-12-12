@@ -1,0 +1,9 @@
+.header{
+    background-image: url('../../images/header2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.navbar img{
+    width: 120px;
+}

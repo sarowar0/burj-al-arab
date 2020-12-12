@@ -1,0 +1,61 @@
+[{
+    "Id":1,
+    "title": "Executive King",
+    "description": "Starndard single room are designed are open of executive king room. Executive king room are 1800 square feet.",
+    "imgUrl": "https://secure.s.forbestravelguide.com/img/properties/burj-al-arab-jumeirah/burj-al-arab-jumeirah-one-bedroom-deluxe.jpg",
+    "bed": 1,
+    "capacity": 2,
+    "bedType": "king",
+    "avatar": "E",
+    "price":133
+  }, {
+    "Id":2,
+    "title": "Singnature twin",
+    "description": "Startdard twin bed room are designed for romantice couple. Signature twin room are 2200 square feet",
+    "imgUrl": "https://r1imghtlak.mmtcdn.com/c1ecfc84976311e7ae5d0a4cef95d023.jpg?&output-quality=75&downsize=520:350&crop=520:350;81,0&output-format=jpg",
+    "bed": 2,
+    "capacity": 2,
+    "bedType": "twin",
+    "avatar": "S",
+    "price":150
+  }, {
+    "Id":3,
+    "title": "Speacial suite room",
+    "description": "Starndard five start suite room for luxurius People. It is very highly speacial room of Burj-al-abar five start hotel.",
+    "imgUrl": "https://cf.bstatic.com/images/hotel/max1024x768/200/200178876.jpg",
+    "bed": 1,
+    "capacity": 2,
+    "bedType": "Suite",
+    "avatar": "S",
+    "price":149
+  }, {
+    "Id":4,
+    "title": "One Bed Villa",
+    "description": "It is a separate of tower building. It's very amazing with nature. One bed villa are 1800 square feet.",
+    "imgUrl": "https://secure.s.forbestravelguide.com/img/properties/burj-al-arab-jumeirah/burj-al-arab-jumeirah-one-bedroom-deluxe.jpg",
+    "bed": 1,
+    "capacity": 2,
+    "bedType": "single",
+    "avatar": "1",
+    "price": 155
+  }, {
+    "Id":5,
+    "title": "Two Bed Villa",
+    "description": "It is a sparate of tower building. it's very amazing with nature. Two bed villa are 2400 square feet",
+    "imgUrl": "https://r1imghtlak.mmtcdn.com/c1ecfc84976311e7ae5d0a4cef95d023.jpg?&output-quality=75&downsize=520:350&crop=520:350;81,0&output-format=jpg",
+    "bed": 2,
+    "capacity": 4,
+    "bedType": "double",
+    "avatar": "2",
+    "price":199
+  }, {
+    "Id":6,
+    "title": "Fimilly Villa",
+    "description": "Familly viall is separate of twoer building. It's very amazing with nature. Familly villa are 3600 square feet",
+    "imgUrl": "https://cf.bstatic.com/images/hotel/max1024x768/200/200178876.jpg",
+    "bed": 3,
+    "capacity": 8,
+    "bedType": "family",
+    "avatar": "3",
+    "price":110
+  }]
